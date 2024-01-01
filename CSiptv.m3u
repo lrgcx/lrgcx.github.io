@@ -41,7 +41,7 @@ http://192.168.9.1:7878/rtp/239.76.247.63:1234
 http://192.168.9.1:7878/rtp/239.76.245.239:1234
 #EXTINF:-1 ,CCTV1 4k
 http://192.168.9.1:7878/rtp/239.76.247.64:1234
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://192.168.9.1:7878/rtp/239.76.246.151:1234
 #EXTINF:-1 ,CCTV2
 http://192.168.9.1:7878/rtp/239.76.246.152:1234
