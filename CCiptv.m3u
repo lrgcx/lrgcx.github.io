@@ -217,7 +217,7 @@ http://192.168.9.1:7878/udp/239.76.252.241:9000
 http://192.168.9.1:7878/udp/239.76.252.242:9000
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视","CHC动作电影"
 http://192.168.9.1:7878/udp/239.76.252.243:9000
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁","新动漫"
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="未分类","新动漫"
 http://192.168.9.1:7878/udp/239.76.252.244:9000
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视","第一剧场"
 http://192.168.9.1:7878/udp/239.76.254.49:9000
@@ -273,7 +273,7 @@ http://192.168.9.1:7878/udp/239.76.252.227:9000
 http://192.168.9.1:7878/udp/239.76.252.228:9000
 #EXTINF:-1 tvg-id="" tvg-name="活动直播4" tvg-logo="" group-title="未分类","活动直播4"
 http://192.168.9.1:7878/udp/239.76.252.229:9000
-#EXTINF:-1 tvg-id="" tvg-name="芒果乐淘" tvg-logo="" group-title="未分类,"芒果乐淘"
+#EXTINF:-1 tvg-id="" tvg-name="芒果乐淘" tvg-logo="" group-title="未分类"芒果乐淘"
 http://192.168.9.1:7878/udp/239.76.252.215:9000
 #EXTINF:-1 tvg-id="" tvg-name="芒果乐活" tvg-logo="" group-title="未分类","芒果乐活"
 http://192.168.9.1:7878/udp/239.76.252.201:9000
@@ -351,7 +351,7 @@ http://192.168.9.1:7878/udp/239.76.255.1:9000
 http://192.168.9.1:7878/udp/239.76.253.53:9000
 #EXTINF:-1 tvg-id="" tvg-name="湘潭公共" tvg-logo="" group-title="地方","湘潭公共"
 http://192.168.9.1:7878/udp/239.76.255.5:9000
-#EXTINF:-1 tvg-id="" tvg-name="岳阳新闻综合" tvg-logo="" group-title="未分类","岳阳新闻综合"
+#EXTINF:-1 tvg-id="" tvg-name="岳阳新闻综合" tvg-logo="" group-title="地方","岳阳新闻综合"
 http://192.168.9.1:7878/udp/239.76.255.7:9000
 #EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="" group-title="未分类","经典电影"
 http://192.168.9.1:7878/udp/239.76.253.52:9000
