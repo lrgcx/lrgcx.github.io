@@ -3,9 +3,9 @@
 http://192.168.9.1:7878/udp/239.76.254.64:9000
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K","CCTV16 4K"
 http://192.168.9.1:7878/udp/239.76.254.200:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视超清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视","湖南卫视超清"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视超清" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan0.png" group-title="卫视","湖南卫视超清"
 http://192.168.9.1:7878/udp/239.76.253.100:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视","湖南卫视"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan0.png" group-title="卫视","湖南卫视"
 http://192.168.9.1:7878/udp/239.76.253.101:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="地方","湖南经视"
 http://192.168.9.1:7878/udp/239.76.246.103:9000
@@ -13,15 +13,15 @@ http://192.168.9.1:7878/udp/239.76.246.103:9000
 http://192.168.9.1:7878/udp/239.76.253.104:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="地方","湖南电视剧"
 http://192.168.9.1:7878/udp/239.76.253.108:9000
-#EXTINF:-1 tvg-id="27" tvg-name="潇湘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","潇湘电影"
+#EXTINF:-1 tvg-id="27" tvg-name="潇湘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="地方","潇湘电影"
 http://192.168.9.1:7878/udp/239.76.253.106:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","湖南公共"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="地方","湖南公共"
 http://192.168.9.1:7878/udp/239.76.253.109:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","湖南娱乐"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png" group-title="地方","湖南娱乐"
 http://192.168.9.1:7878/udp/239.76.253.105:9000
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方","金鹰纪实"
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png" group-title="地方","金鹰纪实"
 http://192.168.9.1:7878/udp/239.76.253.110:9000
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方","金鹰卡通"
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" group-title="地方","金鹰卡通"
 http://192.168.9.1:7878/udp/239.76.253.107:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南国际频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan4.png" group-title="地方","湖南国际频道"
 http://192.168.9.1:7878/udp/239.76.253.102:9000
@@ -41,7 +41,7 @@ http://192.168.9.1:7878/udp/239.76.252.23:9000
 http://192.168.9.1:7878/udp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="" tvg-name="优购物高清" tvg-logo="" group-title="地方","优购物"
 http://192.168.9.1:7878/udp/239.76.254.63:9000
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方","茶频道"
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan12.png" group-title="地方","茶频道"
 http://192.168.9.1:7878/udp/239.76.252.239:9000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视","CCTV-1"
 http://192.168.9.1:7878/udp/239.76.253.151:9000
