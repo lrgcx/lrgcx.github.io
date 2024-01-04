@@ -29,7 +29,7 @@ http://192.168.9.1:7878/udp/239.76.253.102:9000
 http://192.168.9.1:7878/udp/239.76.253.112:9000
 #EXTINF:-1 tvg-id="27" tvg-name="嘉丽购" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","嘉丽购"
 http://192.168.9.1:7878/udp/239.76.253.245:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","湖南教育"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png" group-title="地方","湖南教育"
 http://192.168.9.1:7878/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-id="27" tvg-name="长沙新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","长沙新闻"
 http://192.168.9.1:7878/udp/239.76.253.121:9000
