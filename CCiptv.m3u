@@ -29,15 +29,15 @@ http://192.168.9.1:7878/udp/239.76.253.102:9000
 http://192.168.9.1:7878/udp/239.76.253.112:9000
 #EXTINF:-1 tvg-id="27" tvg-name="嘉丽购" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","嘉丽购"
 http://192.168.9.1:7878/udp/239.76.253.245:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南教育高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","湖南教育"
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","湖南教育"
 http://192.168.9.1:7878/udp/239.76.252.233:9000
-#EXTINF:-1 tvg-id="27" tvg-name="长沙新闻高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","长沙新闻"
+#EXTINF:-1 tvg-id="27" tvg-name="长沙新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方","长沙新闻"
 http://192.168.9.1:7878/udp/239.76.253.121:9000
-#EXTINF:-1 tvg-id="" tvg-name="长沙政法高清" tvg-logo="" group-title="地方","长沙政法"
+#EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="" group-title="地方","长沙政法"
 http://192.168.9.1:7878/udp/239.76.253.122:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙女性" tvg-logo="" group-title="地方","长沙女性"
 http://192.168.9.1:7878/udp/239.76.252.23:9000
-#EXTINF:-1 tvg-id="" tvg-name=长沙经贸高清"" tvg-logo="" group-title="地方","长沙经贸"
+#EXTINF:-1 tvg-id="" tvg-name=长沙经贸"" tvg-logo="" group-title="地方","长沙经贸"
 http://192.168.9.1:7878/udp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="" tvg-name="优购物高清" tvg-logo="" group-title="地方","优购物"
 http://192.168.9.1:7878/udp/239.76.254.63:9000
