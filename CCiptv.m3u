@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K","CCTV 4K超高清"
 http://192.168.9.1:7878/udp/239.76.254.64:9000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K","CCTV16 4K(试看)"
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K","CCTV16 4K"
 http://192.168.9.1:7878/udp/239.76.254.200:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视超清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视","湖南卫视超清"
 http://192.168.9.1:7878/udp/239.76.253.100:9000
