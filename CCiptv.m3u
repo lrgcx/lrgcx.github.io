@@ -51,7 +51,7 @@ http://192.168.9.1:7878/udp/239.76.253.152:9000
 http://192.168.9.1:7878/udp/239.76.253.153:9000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视","CCTV-4"
 http://192.168.9.1:7878/udp/239.76.253.154:9000
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视","CCTV-5"
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
 http://192.168.9.1:7878/udp/239.76.253.155:9000
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视","CCTV-6"
 http://192.168.9.1:7878/udp/239.76.253.156:9000
