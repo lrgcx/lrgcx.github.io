@@ -8,7 +8,7 @@ http://192.168.9.1:7878/udp/239.76.253.100:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan0.png" group-title="卫视","湖南卫视"
 http://192.168.9.1:7878/udp/239.76.253.101:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="地方","湖南经视"
-http://192.168.9.1:7878/udp/239.76.246.103:9000
+http://192.168.9.1:7878/udp/239.76.253.103:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="地方","湖南都市"
 http://192.168.9.1:7878/udp/239.76.253.104:9000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="地方","湖南电视剧"
