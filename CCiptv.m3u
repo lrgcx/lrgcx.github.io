@@ -81,7 +81,7 @@ http://192.168.9.1:7878/udp/239.76.253.98:9000
 http://192.168.9.1:7878/udp/239.76.252.238:9000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="央视",CCTV-4-欧洲
 http://192.168.9.1:7878/udp/239.76.253.95:9000
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4-美洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="央视",CCTV-4-美洲
 http://192.168.9.1:7878/udp/239.76.253.96:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.9.1:7878/udp/239.76.252.66:9000
