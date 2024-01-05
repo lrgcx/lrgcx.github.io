@@ -227,11 +227,11 @@ http://192.168.9.1:7878/udp/239.76.254.50:9000
 http://192.168.9.1:7878/udp/239.76.254.51:9000
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球
 http://192.168.9.1:7878/udp/239.76.254.52:9000
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视",怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视",怀旧剧场
 http://192.168.9.1:7878/udp/239.76.254.53:9000
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",女性时尚
 http://192.168.9.1:7878/udp/239.76.254.55:9000
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="" group-title="央视",央视文化精品
+#EXTINF:-1 tvg-id="CCTV" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视",央视文化精品
 http://192.168.9.1:7878/udp/239.76.254.56:9000
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理
 http://192.168.9.1:7878/udp/239.76.254.57:9000
