@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.eu.org/,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.eu.org/pp.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
 http://192.168.9.1:7878/udp/239.76.254.64:9000
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K",CCTV-16_4K
